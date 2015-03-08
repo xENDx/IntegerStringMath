@@ -1,6 +1,6 @@
 # IntegerStringMath
-does integer math on strings without using arithmetic
-this program is not in any way useful
+does integer math on strings without using arithmetic.
+this program is not in any way useful.
 
 contains:
  lib/
